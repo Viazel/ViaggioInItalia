@@ -29,7 +29,7 @@ h1, p {
 }
 
 h1 {
-    margin-bottom: 1rem;
+    margin-bottom: 35px;
     font-size: 4rem;
 }
 
@@ -90,6 +90,7 @@ section:last-child {
 section img {
     width: 100%;
     border-radius: 5px;
+    margin: 35px 0;
 }
 
 #title {
