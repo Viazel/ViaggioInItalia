@@ -1,5 +1,7 @@
 # Preparazione
 
+Test
+
 Il mio viaggio è bello, e per questo viaggio vado in una città d’Italia del Nord che si chiama “Fidenza”. Questa città si trova nella provincia di Parma in Emilia-Romagna. Il viaggio in bus dura otto ore. Per prepararmi a casa mia, ho cominciato a ascoltare musiche italiane per praticare la lingua nella mia testa (e di più le canzone mi piacciono dunque mi fanno passare il tempo un po’). Dopo abbiamo fatto la mia valigia con mia madre per prendere le mie cose di cui avrò bisogno più tardi a Fidenza, come i vestiti etcétera… Mi sono dato 1 oggetto per questo viaggio, cercare di non rimanere con i francesi ma essere con gli italiani per praticare la lingua e avere dei bei ricordi.  
 Se sotto, c’è il mio viaggio da Sisteron a Fidenza con Google Maps
 
